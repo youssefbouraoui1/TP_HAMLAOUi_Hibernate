@@ -10,11 +10,17 @@ public class Main {
     public static void main(String[] args) {
         EntrepriseDAO dao = new EntrepriseDAO();
 
-        // Insert new enterprises
-        dao.ajouterEntreprise(new Entreprises("TechCorp", "IT, Software", 150));
-        dao.ajouterEntreprise(new Entreprises("HealthPlus", "Healthcare, Medical Equipment", 100));
 
-        // Retrieve all enterprises
-        dao.getAllEntreprises().forEach(System.out::println);
+       /* dao.ajouterEntreprise(new Entreprises("TechCorp", "IT, Software", 150));
+        dao.ajouterEntreprise(new Entreprises("HealthPlus", "Healthcare, Medical Equipment", 100));
+        dao.ajouterEntreprise(new Entreprises("Leyton", "IA, Data Science", 1000));
+        dao.ajouterEntreprise(new Entreprises("Oracle", "Database technologies, Cloud computing", 10000));*/
+        //System.out.println(dao.getEntrepriseByNom("Leyton"));
+        //dao.getEntreprisesSortedByNbEmployes().forEach(System.out::println);
+        //System.out.println("\nnombre d'entreprises: "+dao.getNombreEntreprises());
+
+       //dao.deleteEntreprise(1);
+
+       System.out.println("entreprise avec id = 1: "+dao.getEntrepriseById(1));
     }
 }

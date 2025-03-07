@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.Hamlaoui</groupId>
-    <artifactId>TP1_Hamlaoui</artifactId>
+    <artifactId>TP1HamlaouiHibernate</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <!-- Hibernate Core -->

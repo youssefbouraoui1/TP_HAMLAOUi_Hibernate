@@ -1,4 +1,7 @@
-   ****Exercice 1:
+si les images ne de voient pas voici mon repo github : https://github.com/youssefbouraoui1/TP_Hibernate.git
+ et mon readme: https://github.com/youssefbouraoui1/TP_Hibernate/blob/main/README.md
+
+****Exercice 1:
   1 - céation de la base de données et la table entreprises
 ![Capture d’écran (8184)](https://github.com/user-attachments/assets/3c1ba10e-cea9-4bb4-a036-3927f9e885bb)
 

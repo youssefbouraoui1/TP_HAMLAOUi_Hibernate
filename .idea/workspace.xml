@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d292554-748c-474e-b120-75b6e5117d59" name="Changes" comment="">
-      <change afterPath="D:/TP1_Hamlaoui/.gitignore" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/.idea/.gitignore" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/.idea/misc.xml" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/README.md" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/img.png" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/pom.xml" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/src/main/java/net/Hamlaoui/DAO/EntrepriseDAO.java" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/src/main/java/net/Hamlaoui/Entities/Entreprises.java" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/src/main/java/net/Hamlaoui/HibernateUtil.java" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/src/main/java/net/Hamlaoui/Main.java" afterDir="false" />
-      <change afterPath="D:/TP1_Hamlaoui/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/Hamlaoui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/Hamlaoui/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +27,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/TP1_Hamlaoui" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -43,20 +42,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/TP1_Hamlaoui/src/main/java/net/Hamlaoui/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/TP1HamlaouiHibernate",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/TP1_Hamlaoui/src/main/java/net/Hamlaoui/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.Hamlaoui.Main" />
+      <module name="TP1HamlaouiHibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.Hamlaoui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,22 +97,12 @@
       <option name="presentableId" value="Default" />
       <updated>1741364197614</updated>
       <workItem from="1741364198756" duration="1528000" />
-      <workItem from="1741365744019" duration="358000" />
+      <workItem from="1741365744019" duration="879000" />
+      <workItem from="1741366659784" duration="2431000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/TP1_Hamlaoui/src/main/java/net/Hamlaoui/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
